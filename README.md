@@ -23,7 +23,7 @@ Eu vou contra esses dois pontos. O primeiro é até irónico, pois eu nunca íri
 
 ## Aviso
 
-Este software é providenciado sem quaisquer garantias e responsabilidades sobre a autora. [Todo o software está sobrea a licença MIT](LICENSE).
+Este software é providenciado sem quaisquer garantias e responsabilidades sobre a autora. [Todo o software está sobre a licença MIT](LICENSE).
 
 <details>
   <summary>English</summary>
@@ -39,7 +39,7 @@ Este software é providenciado sem quaisquer garantias e responsabilidades sobre
   ## Why?
 
   There are two main reasons that justify PagSeguro from blocking rooted devices:
-  
+
   1. Protects their app from being modified
   2. Protects users from losing their accounts in case a virus uses root somehow
 
